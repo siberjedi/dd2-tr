@@ -26,7 +26,7 @@ Oyun açılırken REFramework penceresi görünürse kapatabilirsiniz (normal).
 ### Notlar
 - Yama yalnızca **tek oyunculu** kullanım içindir.
 - Oyun güncellemesi geldiğinde metin dosyası kimlikleri değişebilir; yama etkisiz kalabilir.
-- 198 metin dosyası (oyun güncellemesinde yeniden adlandırıldığı için) İngilizce kalır.
+- Paketteki tüm metin dosyaları (876/876) çevrildi; eski listedeki 198 yol güncel oyunda bulunmuyor.
 
 ## 2. Geliştiriciler için (sıfırdan derleme)
 

@@ -21,7 +21,7 @@ UNINSTALL
 
 NOTES
 - Free mod; do not sell.
-- 198 message files remain English (their IDs changed in the latest game patch).
+- All message files present in the current game (876/876) are translated.
 - AI-assisted translation; some lines may have tone inconsistencies.
 - Game updates may break this mod.
 

@@ -21,7 +21,7 @@ KALDIRMA
 
 NOTLAR
 - Yama ücretsizdir; satılamaz.
-- 198 metin dosyası (oyun güncellemesinde yeniden adlandırıldığı için) İngilizce kalır.
+- Paketteki tüm metin dosyaları (876/876) çevrildi.
 - Yapay zekâ destekli çeviridir; bazı cümlelerde ton farklılıkları olabilir.
 - Oyun güncellemeleri yamayı bozabilir.
 

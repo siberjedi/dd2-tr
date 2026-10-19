@@ -5,7 +5,7 @@
 Açık kaynak, ücretsiz Türkçe yama projesi. Oyunun metin dosyalarını (`.msg.24`) çevirir ve mod paketi (`.pak`) olarak paketler.
 
 > **Durum:** v1.0 — hedef oyun sürümü **4.1.0 (build 25920212, Ekim 2026)**
-> **Kapsam:** 876 / 1.074 metin dosyası. Oyunun son güncellemesinde kimlikleri değişen **198 dosya İngilizce kalmaktadır**.
+> **Kapsam:** Güncel oyundaki **tüm metin dosyaları (876/876)** çevrildi. Eski dosya listesindeki 198 yol artık oyunda bulunmuyor; içerikleri `_TU_END` dosyalarına taşınmış ve çevrilmiştir.
 > **Çeviri:** 46.786 benzersiz dize, 43.876 satır. Yapay zekâ destekli çeviri + terim kuralları + elle düzeltmeler.
 
 ## Özellikler
@@ -61,7 +61,7 @@ pwsh tools/build_pak.ps1 -NativesRoot staging/re_chunk_000 -REMSG "C:\...\REMSG_
 
 ## Bilinen sınırlar
 
-- 198 metin dosyası (oyun güncellemesinde yeniden adlandırıldığı için) İngilizce
+- Eski listeye özgü 198 yol güncel oyunda mevcut değil (içerikleri çevrildi)
 - Yapay zekâ çevirisi: bazı cümlelerde ton/terim tutarsızlığı olabilir
 - Oyun güncellemeleri yamayı bozabilir; sürüm numarasına dikkat edin
 

@@ -5,7 +5,7 @@
 
 [list]
 [*]46.786 benzersiz dize, 43.876 satır çevrildi
-[*]876 / 1.074 metin dosyası (oyun güncellemesinde yeniden adlandırılan 198 dosya İngilizce kalır)
+[*]Güncel oyundaki tüm metin dosyaları (876/876) çevrildi
 [*]Yapay zekâ destekli çeviri + terim kuralları + elle düzeltmeler
 [*]Dragon's Dogma terimleri korunur (Arisen, Pawn, Wakestone, Ferrystone ve yer/meslek adları)
 [/list]
@@ -22,7 +22,7 @@
 
 [size=4][b]Bilinen sınırlar[/b][/size]
 [list]
-[*]198 metin dosyası İngilizce (oyun güncellemesinde dosya kimlikleri değişti)
+[*]Eski dosya listesine özgü 198 yol güncel oyunda bulunmuyor (içerikleri çevrildi)
 [*]Yapay zekâ çevirisi: bazı cümlelerde ton farklılıkları olabilir
 [*]Oyun güncellemeleri yamayı bozabilir
 [/list]
