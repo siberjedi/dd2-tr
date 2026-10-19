@@ -1,0 +1,13 @@
+*.pak
+*.msg.24
+*.msg.24.new
+*.msg.24.txt
+*.log
+staging/
+work/
+dd2tr/
+orig_txt/
+node_modules/
+.vscode/
+Thumbs.db
+desktop.ini
