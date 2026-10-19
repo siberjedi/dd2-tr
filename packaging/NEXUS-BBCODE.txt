@@ -1,0 +1,42 @@
+[size=5][b]DD2TR — Dragon's Dogma 2 Türkçe Yerelleştirme[/b][/size]
+[size=3]v1.0 — Oyun sürümü 4.1.0 (build 25920212, Ekim 2026)[/size]
+
+[b]Menü, arayüz, görevler, NPC/Pawn diyalogları, eşya ve beceri açıklamaları ile ara sahne altyazılarını kapsayan Türkçe yama.[/b]
+
+[list]
+[*]46.786 benzersiz dize, 43.876 satır çevrildi
+[*]876 / 1.074 metin dosyası (oyun güncellemesinde yeniden adlandırılan 198 dosya İngilizce kalır)
+[*]Yapay zekâ destekli çeviri + terim kuralları + elle düzeltmeler
+[*]Dragon's Dogma terimleri korunur (Arisen, Pawn, Wakestone, Ferrystone ve yer/meslek adları)
+[/list]
+
+[size=4][b]Kurulum[/b][/size]
+[list]
+[*][url=https://github.com/praydog/REFramework-nightly]REFramework nightly[/url] (01421 veya üzeri) indirin; [font=Courier New]dinput8.dll[/font] dosyasını oyun klasörüne çıkarın
+[*]Oyun klasöründe [font=Courier New]pak_mods[/font] klasörü oluşturun
+[*][font=Courier New]DD2TR.pak[/font] dosyasını [font=Courier New]pak_mods[/font] içine kopyalayın
+[*]Oyunu başlatın
+[/list]
+
+[b]Kaldırma:[/b] [font=Courier New]pak_mods\DD2TR.pak[/font] dosyasını silin.
+
+[size=4][b]Bilinen sınırlar[/b][/size]
+[list]
+[*]198 metin dosyası İngilizce (oyun güncellemesinde dosya kimlikleri değişti)
+[*]Yapay zekâ çevirisi: bazı cümlelerde ton farklılıkları olabilir
+[*]Oyun güncellemeleri yamayı bozabilir
+[/list]
+
+[size=4][b]Kaynak / Katkı[/b][/size]
+Kaynak kod ve çeviri verisi: [url=https://github.com/siberjedi/dd2-tr]github.com/siberjedi/dd2-tr[/url]
+Düzeltme önerileri için pull request açabilirsiniz.
+
+[size=4][b]Krediler[/b][/size]
+[list]
+[*]REtool — FluffyQuack
+[*]REMSG_Converter — dtlnor
+[*]REFramework — praydog
+[*]Natives Renamer — Jarol
+[/list]
+
+[b]Bu yama ücretsizdir. Capcom ile bağlantılı değildir. Satılamaz.[/b]

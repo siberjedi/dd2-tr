@@ -1,0 +1,27 @@
+DD2TR — Dragon's Dogma 2 Türkçe Yerelleştirme v1.0
+====================================================
+
+HEDEF OYUN SÜRÜMÜ: 4.1.0 (build 25920212, Ekim 2026)
+
+KURULUM
+1) REFramework nightly (01421 veya üzeri) indirin:
+   https://github.com/praydog/REFramework-nightly
+   Zip içindeki dinput8.dll dosyasını oyun klasörüne çıkarın:
+   ...\steamapps\common\Dragons Dogma 2\
+
+2) Oyun klasöründe "pak_mods" klasörü yoksa oluşturun.
+
+3) DD2TR.pak dosyasını pak_mods klasörüne kopyalayın.
+
+4) Oyunu başlatın. (Açılışta REFramework penceresi çıkarsa kapatabilirsiniz.)
+
+KALDIRMA
+- pak_mods\DD2TR.pak dosyasını silin.
+
+NOTLAR
+- Yama ücretsizdir; satılamaz.
+- 198 metin dosyası (oyun güncellemesinde yeniden adlandırıldığı için) İngilizce kalır.
+- Yapay zekâ destekli çeviridir; bazı cümlelerde ton farklılıkları olabilir.
+- Oyun güncellemeleri yamayı bozabilir.
+
+Proje: https://github.com/siberjedi/dd2-tr

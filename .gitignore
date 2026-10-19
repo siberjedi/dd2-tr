@@ -9,5 +9,6 @@ dd2tr/
 orig_txt/
 node_modules/
 .vscode/
+dist/
 Thumbs.db
 desktop.ini
