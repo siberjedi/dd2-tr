@@ -14,6 +14,14 @@ Açık kaynak, ücretsiz Türkçe yama projesi. Oyunun metin dosyalarını (`.ms
 - `<lf>` satır kırma etiketleri ve tüm biçim kodları korunur
 - Dragon's Dogma terimleri korunur: Arisen, Pawn, Wakestone, Ferrystone, Brine, meslek ve yer adları
 
+## Ekran Görüntüleri
+
+| Ana menü | Seçenekler |
+|:---:|:---:|
+| ![Ana menü](screenshots/01-main.png) | ![Seçenekler](screenshots/02-settings.png) |
+
+![Diyalog](screenshots/03-dialogue.png)
+
 ## Oyuncular için kurulum
 
 Hazır `.pak` sürümü **Nexus Mods** üzerinden yayınlanır: `NEXUS_LINKI_BURAYA`

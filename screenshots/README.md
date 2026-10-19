@@ -1,13 +1,14 @@
 # Ekran Görüntüleri
 
-Önerilen kareler (1920x1080, PNG):
+Kareler (PNG; v1.0 çekimleri 1280x720):
 
 | Dosya | İçerik |
 |---|---|
-| `01-menu.png` | Ana menü (Türkçe butonlar: "Oyunu Başlat", "Yeni Oyun", "Seçenekler") |
-| `02-options.png` | Seçenekler > Görüntü ekranı |
-| `03-dialogue.png` | Oyun içi NPC diyalogu / altyazı |
-| `04-item.png` | Envanterde eşya açıklaması |
+| `01-main.png` | Ana menü (Türkçe butonlar) |
+| `02-settings.png` | Seçenekler > Görüntü ekranı |
+| `03-dialogue.png` | NPC diyalogu (Türkçe altyazı + "Sonraki" istemi) |
+
+İsteğe bağlı: `04-item.png` (envanterde eşya açıklaması).
 
 ## Çekim
 
