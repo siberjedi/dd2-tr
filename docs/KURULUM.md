@@ -8,6 +8,9 @@
 - `DD2TR.pak`
 
 ### Adımlar
+
+> Hazır paket: https://www.nexusmods.com/dragonsdogma2/mods/1988
+
 1. REFramework zip'ini indir; içindeki `dinput8.dll` dosyasını oyunun kurulu olduğu klasöre çıkar
    (`...\steamapps\common\Dragons Dogma 2\`)
 2. Aynı klasörde yoksa `pak_mods` adında bir klasör oluştur

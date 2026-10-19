@@ -2,6 +2,7 @@ DD2TR — Dragon's Dogma 2 Turkish Localization v1.0
 ====================================================
 
 TARGET GAME VERSION: 4.1.0 (build 25920212, October 2026)
+DOWNLOAD: https://www.nexusmods.com/dragonsdogma2/mods/1988
 
 INSTALL
 1) Download REFramework nightly (01421 or newer):

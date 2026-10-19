@@ -24,7 +24,7 @@ Açık kaynak, ücretsiz Türkçe yama projesi. Oyunun metin dosyalarını (`.ms
 
 ## Oyuncular için kurulum
 
-Hazır `.pak` sürümü **Nexus Mods** üzerinden yayınlanır: `NEXUS_LINKI_BURAYA`
+Hazır `.pak` sürümü **Nexus Mods** üzerinden yayınlanır: [DD2TR - Türkçe Yerelleştirme](https://www.nexusmods.com/dragonsdogma2/mods/1988)
 
 Detaylı adımlar: [docs/KURULUM.md](docs/KURULUM.md)
 

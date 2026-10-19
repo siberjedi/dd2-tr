@@ -2,6 +2,7 @@ DD2TR — Dragon's Dogma 2 Türkçe Yerelleştirme v1.0
 ====================================================
 
 HEDEF OYUN SÜRÜMÜ: 4.1.0 (build 25920212, Ekim 2026)
+İNDİRME: https://www.nexusmods.com/dragonsdogma2/mods/1988
 
 KURULUM
 1) REFramework nightly (01421 veya üzeri) indirin:
